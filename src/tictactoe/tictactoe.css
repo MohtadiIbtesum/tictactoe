@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    align-items: center; 
+}
+
+body {
+    background-color: aquamarine;
+    color: brown;
+}
+table td {
+    border: 5px solid rgb(147, 65, 65);
+    width: 100px;
+    height: 100px;
+}
+
